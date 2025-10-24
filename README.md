@@ -35,8 +35,11 @@ The current published version of the Metadata Profile is available at:
 ---
 
 ## 📄 Licensing
-All feedback and contributions are made publicly under the repository’s open license.  
-Please avoid submitting any confidential or unpublished material.
+All content in this repository, including feedback and contributions, is made available under the  
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence.  
+By contributing, you agree that your submissions may be incorporated into future versions of the Metadata Profile under the same licence. Please avoid submitting any confidential or unpublished material.
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
