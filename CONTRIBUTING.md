@@ -15,13 +15,10 @@ Your inputs ensure that the Profile is accurate, increases the FAIRness of archa
 
 ---
 
-## 🧩 Larger Contributions
+## 🧩 Larger or Structured Contributions
 
-If you wish to propose extensive changes (e.g., restructuring of the profile or adding multiple (sub)properties):
-1. **Fork this repository** to your own GitHub account.
-2. **Create a new branch** for your proposed edits.
-3. **Make your changes** to the relevant files.
-4. **Submit a pull request (PR)** with a short summary explaining your rationale.
+If you wish to propose extensive changes (e.g., restructuring of the profile or adding multiple (sub)properties), please describe them in detail within a single issue, or attach a document (for example, a revised section draft).  
+Direct editing via pull requests is not expected for the repository containing the Archaeological Sample Metadata Profile.
 
 ---
 
