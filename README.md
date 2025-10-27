@@ -1,6 +1,6 @@
 # Archaeology Sample Metadata Profile – Feedback
 
-This repository is for collecting **suggestions, corrections, and questions** related to the **Archaeology Sample Metadata Profile** developed by the **IGSN–DataCite Archaeology and Cultural Heritage Community of Practice**.
+This repository is for collecting **suggestions, corrections, and questions** related to the **Archaeology Sample Metadata Profile** developed by the [**IGSN–DataCite Archaeology and Cultural Heritage Community of Practice**](https://ev.igsn.org/communities/archaeology).
 
 ---
 
@@ -29,8 +29,8 @@ Comment on open issues if you have supporting information or alternative perspec
 
 ## 📖 Reference
 The current published version of the Metadata Profile is available at:  
-👉 **TO BE ADDED**  
-(A PDF version is also available.)
+👉 **Website will be added soon**  
+([A PDF version is also available](https://doi.org/10.5281/zenodo.17254975).)
 
 ---
 
@@ -44,4 +44,4 @@ By contributing, you agree that your submissions may be incorporated into future
 ---
 
 ## 🤝 Acknowledgement
-This repository is maintained by the **IGSN–DataCite Archaeology and Cultural Heritage Community of Practice**.
+This repository is maintained by the [**IGSN–DataCite Archaeology and Cultural Heritage Community of Practice**](https://ev.igsn.org/communities/archaeology).
