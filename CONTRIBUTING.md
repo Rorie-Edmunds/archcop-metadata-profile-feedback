@@ -26,7 +26,7 @@ Direct editing via pull requests is not expected for the repository containing t
 
 All suggestions will be read and consider by the **IGSN–DataCite Archaeology and Cultural Heritage Community of Practice** during the periodic review of the Archaeology Sample Metadata Profile (review frequency to be determined).  
 
-Accepted changes will then be incorporated into a future version of the Metadata Profile.
+Accepted changes will then be incorporated into a future version of the Archaeoloigcal Sample Metadata Profile.
 
 ---
 
