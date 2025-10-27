@@ -34,6 +34,6 @@ Accepted changes will then be incorporated into a future version of the Archaeol
 
 All contributions to this repository are made available under the 
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence.  
-By submitting feedback or content, you agree that it may be incorporated into the Metadata Profile under the same licence.
+By submitting feedback or content, you agree that it may be incorporated into the Archaeological Sample Metadata Profile under the same licence.
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
