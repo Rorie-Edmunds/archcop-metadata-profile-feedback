@@ -29,7 +29,7 @@ Comment on open issues if you have supporting information or alternative perspec
 
 ## 📖 Reference
 The current published version of the Metadata Profile is available at:  
-👉 **https://igsn.github.io/archcop-metadata-profile/**
+👉 **https://igsn.github.io/archcop-metadata-profile/**  
 ([A PDF version is also available](https://doi.org/10.5281/zenodo.17254975).)
 
 ---
